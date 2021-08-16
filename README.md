@@ -1,5 +1,5 @@
 # qemu-img
-Image file for qemu emulators on android, windows an linux.
+Image file for qemu emulators on android, windows and linux.
 
 The avaliable disk image format
 1. Qcow2
